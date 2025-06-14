@@ -32,7 +32,7 @@ Imagine que você está desenvolvendo um aplicativo de finanças pessoais. Crie 
 9.       Classe Carro:
 Agora, considere a criação de um simulador de carros. Crie uma classe Carro com atributos como marca, modelo e ano, e métodos para ligar, desligar e acelerar. Isso tornará a simulação mais realista!
 
-10.   Classe Funcionário:
+10.       Classe Fucnionário:
 Por fim, pense em um sistema de recursos humanos. Implemente uma classe Funcionário com características como nome, cargo e salário, e um método para calcular aumento de salário. Isso ajudará a gerenciar a equipe de forma eficaz!
 
 ---------------------------------------
