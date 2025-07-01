@@ -1,5 +1,5 @@
 # ADS-JAVA2
-10 atividades referente ao módulo 2 do curso de ADS, na Unyleya, de PROGRAMAÇÃO ORIENTADA A OBJETOS
+Atividade final referente ao módulo 4 do curso de ADS, na Unyleya, de PROGRAMAÇÃO ORIENTADA A OBJETOS
 
 ---------------------------------------
 ## EXERCÍCIO
